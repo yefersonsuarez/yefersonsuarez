@@ -10,9 +10,10 @@ yeferson</a></h1>
 
 <br>
 
-- Enfocado en seguir aprendiendo hasta que una IA me reemplace #humor
-
-
+-
+-
+-
+-
 <br><br>
 
 

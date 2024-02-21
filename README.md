@@ -5,7 +5,7 @@ programador full stack me destaco mas en el desarrollo bakend
 - 👨🏻‍💻 Actualmente estudio en Servicio Nacional de Aprendizaje en colombia
 - 💼 Desarrollo proyecto semanales
 - ✔️ Mi perfil profesional LinkedIn(https://www.linkedin.com/in/yeferson-duran-607635164/).
-- 👨‍💻 Actualmente estoy aprendiendo aprendiendo java,php,html,css y javaScript
+- 👨‍💻 Actualmente estoy aprendiendo java,php,html,css y javaScript
 
 ---
 

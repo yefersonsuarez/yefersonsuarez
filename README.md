@@ -1,4 +1,4 @@
-![image](https://github.com/yefersonsuarez/yefersonsuarez/assets/137818201/1d5a6af6-440c-4182-9548-3b5e438ac7ed)## Analista Y Desarrollador De Software
+## Analista Y Desarrollador De Software
 
 programador full stack me destaco mas en el desarrollo bakend 
 

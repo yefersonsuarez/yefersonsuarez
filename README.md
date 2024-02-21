@@ -30,11 +30,3 @@ Java, javascript, php, hmtl, css, mysql y sprinboot
 - 
 ---
 ### GitHub Stats
-
-<img src="https://raw.githubusercontent.com/lgzarturo/lgzarturo/master/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="GitHub" style="float: right;" align="right" />
-
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=lgzarturo&show_icons=true&include_all_commits=true&theme=dark&count_private=true 'Datos de Arturo López')
-
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="eat sleep code repeat" width="200" style="float: right; width: 200px" align="right" />
-
-

@@ -1,8 +1,3 @@
-# 🤖 [@lgzarturo](https://twitter.com/lgzarturo)
-
-![GitHub followers](https://img.shields.io/github/followers/lgzarturo?label=Follow%20me%20on%20GitHub&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/lgzarturo?label=Follow%20me%20on%20Twitter&style=for-the-badge)
-
 ## Analista Y Desarrollador De Software
 
 Soy programador full stack con experiencia en la industria de viajes, consultoría, reclutamiento y recursos humanos. Me especializo en tecnologías con lenguajes como Java, Kotlin, JavaScript y Python.
